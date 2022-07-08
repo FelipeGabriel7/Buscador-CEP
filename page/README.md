@@ -6,7 +6,7 @@
 
  -npm install ( para instalar o node modules)
 
- ### rodando o projeto no localHost
+ ### rodando o projeto no localhost
 
  - cd page
  - npm start
